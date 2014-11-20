@@ -15,4 +15,4 @@ error: failed to push some refs to 'https://github.com/xshlee/learngit.git'
 'git pull ...') before pushing again.
 See the 'Note about fast-forwards' in 'git push --help' for details.
 
-在新分支上编辑这个文件看看是什么效果...
+add new line  an branch dev..
