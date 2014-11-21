@@ -16,3 +16,5 @@ error: failed to push some refs to 'https://github.com/xshlee/learngit.git'
 See the 'Note about fast-forwards' in 'git push --help' for details.
 
 add new line  an branch dev..
+
+edit XXXXXX on branch dev.
